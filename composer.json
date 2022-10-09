@@ -3,7 +3,7 @@
     "require" : {},
     "autoload": {
         "psr-4": {
-            "App\\": "src/Classes"
+            "App\\": "src/App"
         }
     },
     "require-dev": {
