@@ -3,7 +3,7 @@
         'name' => 'solid/php',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '04cd05283135a41716482045119126fef2e76bb1',
+        'reference' => '0b00bc6a5fd702e75e033fc829b4826ef2e7f897',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -256,7 +256,7 @@
         'solid/php' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '04cd05283135a41716482045119126fef2e76bb1',
+            'reference' => '0b00bc6a5fd702e75e033fc829b4826ef2e7f897',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
